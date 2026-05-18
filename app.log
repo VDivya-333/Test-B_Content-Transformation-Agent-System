@@ -1,0 +1,2 @@
+2026-05-15 19:52:21.936 | WARNING  | app.utils.auth:decode_access_token:42 - JWT validation failed: Invalid header padding
+2026-05-15 19:55:31.312 | WARNING  | app.utils.auth:decode_access_token:42 - JWT validation failed: Invalid header padding
